@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_Baonguyen.jpg" alt="Bao Nguyen Banner" width="100%">
+  <img src="Profile_GiaBaoNguyen.jpg" alt="Bao Nguyen Banner" width="100%">
 </p>
 
 ### 🚀 Data Scientist | AI Researcher | Data Engineer
