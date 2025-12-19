@@ -1,6 +1,6 @@
 # Hi there, I'm Bao Nguyen 👋 
 
-### 🚀 Data Scientist | Data Engineer
+### 🚀 Data Scientist | AI Researcher | Data Engineer
 
 I am a passionate **Data Scientist** dedicated to turning complex data into actionable insights and building intelligent systems. With a strong foundation in statistical analysis and machine learning, I enjoy solving real-world problems through data-driven approaches.
 
