@@ -1,4 +1,6 @@
-# Hi there, I'm Bao Nguyen 👋 
+<p align="center">
+  <img src="banner_Baonguyen.jpg" alt="Bao Nguyen Banner" width="100%">
+</p>
 
 ### 🚀 Data Scientist | AI Researcher | Data Engineer
 
