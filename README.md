@@ -4,7 +4,7 @@
 
 ### 🚀 Data Scientist | AI Researcher | Data Engineer
 
-I am a passionate **Data Scientist** dedicated to turning complex data into actionable insights and building intelligent systems. With a strong foundation in statistical analysis and machine learning, I enjoy solving real-world problems through data-driven approaches.
+I am Bao, an aspiring data scientist with interests in both data-driven decision-making for businesses and research on large language models, especially Transformers.
 
 ---
 
