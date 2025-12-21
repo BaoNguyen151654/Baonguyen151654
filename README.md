@@ -33,5 +33,3 @@ I'm always open to collaborating on interesting projects or discussing about opp
 * **Email:** [mrngb2000@gmail.com](mailto:mrngb2000@gmail.com)
 
 ---
-
-*“Data is the new oil, but intelligence is the new engine.”*
