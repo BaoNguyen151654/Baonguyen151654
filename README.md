@@ -4,7 +4,10 @@
 
 ### 🚀 DATA SCIENTIST | AI RESEARCHER | DATA ENGINEER
 
-I am Bao, an aspiring data scientist with interests in both data-driven decision-making for businesses and research on large language models, especially Transformers.
+Oops, what are you doing here? Anyway, welcome to my portfolio.
+Here you’ll find a collection of projects I’ve worked on, some challenging,
+some frustrating, but all meaningful.  
+Yes, a few of them were completed while I was staring at my screen at 3 a.m.
 
 ---
 
