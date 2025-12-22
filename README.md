@@ -29,6 +29,10 @@ I am Bao, an aspiring data scientist with interests in both data-driven decision
 <p align="center"><strong>| RESEARCH IMPLEMENTATION: SPATIOTEMPORAL TRANSFORMERS FOR SIGN LANGUAGE PRODUCTION |
 </strong></p>
 
+<p align="center">
+  <img src="Demo.gif" alt="Sign Language Production Demo">
+</p>
+
 **Description:**
 This project aims to overcome language barriers for the Deaf community. 
 I built a Spatiotemporal Transformer model from scratch that translates text into sign language. 
@@ -36,15 +40,15 @@ The model was trained and tested on the PHOENIX-14 dataset, a well-known dataset
 Temporal and spatial attention in the decoder enables the model to capture both dimensions effectively, 
 achieving a normalized DTW score of 0.49, which is a 91.4% improvement over traditional Transformer models on the same dataset.
 
-<p align="center">
-  <img src="Demo.gif" alt="Sign Language Production Demo">
-</p>
-
 **Repository:** [Spatiotemporal Transformers for Sign Language Production](https://github.com/BaoNguyen151654/Spatiotemporal-Transformers-for-Sign-Language-Production)
 
 
 <p align="center"><strong>| DATA ENGINEERING: END TO END DATA PIPELINE OF AN ONLINE BIKE SHOP |
 </strong></p>
+
+<p align="center">
+  <img src="Datamodel.jpg" alt="Data Model" width="40%">
+</p>
 
 **Description:**
 This project focuses on building a database for an online bike shop. 
@@ -52,11 +56,8 @@ The MySQL database is connected to the shop's website to process real-time trans
 In addition, I performed data analytics and machine learning by extracting features from this dataset 
 to generate recommendations for optimizing business solutions.
 
-<p align="center">
-  <img src="Datamodel.jpg" alt="Data Model" width="40%">
-</p>
-
 **Repository:** [Database_ML_Bikeshop_Project](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
+
 
 ---
 
