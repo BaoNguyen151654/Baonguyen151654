@@ -12,9 +12,8 @@ I am Bao, an aspiring data scientist with interests in both data-driven decision
 
 * **Core Expertise:** Machine Learning, Time Series Analysis, Statistical Modeling, Natural Language Processing (NLP).
 * **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-* **Data Visualization:** `Power BI`, `Tableau`.
 * **Software & Cloud:**
-    * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel.
+    * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel, Power BI, Tableau.
     * **Cloud/DB:** MySQL, BigQuery, Google Cloud, AWS.
 - **Frameworks & Libraries:**
   - **Data Manipulation:** `Pandas`, `NumPy`
