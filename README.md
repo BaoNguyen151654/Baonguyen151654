@@ -62,7 +62,7 @@ to generate recommendations for optimizing business solutions.
 
 **Repository:** [Database_ML_Bikeshop_Project](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
 
-<p align="center"><strong>| BUSINESS INTELLIGENT: FORECASTING SKYWORKS FINANCIAL PERFORMANCE AND STRATEGIC BUSINESS RECOMMENDATIONS |
+<p align="center"><strong>| BUSINESS INTELLIGENT: FORECASTING SKYWORKS NET INCOME AND BUSINESS RECOMMENDATIONS |
 </strong></p>
 
 <p align="center">
