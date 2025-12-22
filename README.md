@@ -53,7 +53,7 @@ In addition, I performed data analytics and machine learning by extracting featu
 to generate recommendations for optimizing business solutions.
 
 <p align="center">
-  <img src="Datamodel.jpg.gif" alt="Data Model">
+  <img src="Datamodel.jpg" alt="Data Model">
 </p>
 
 ---
