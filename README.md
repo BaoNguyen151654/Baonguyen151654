@@ -49,7 +49,7 @@ achieving a normalized DTW score of 0.49, which is a 91.4% improvement over trad
 </strong></p>
 
 <p align="center">
-  <img src="Datamodel.jpg" alt="Data Model" width="40%">
+  <img src="Datamodel.jpg" alt="Data Model" width="50%">
 </p>
 
 **Description:**
