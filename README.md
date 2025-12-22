@@ -9,6 +9,8 @@ Here you’ll find a collection of projects I’ve worked on, some challenging,
 some frustrating, but all meaningful.  
 Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀.
 
+**About Me:** I am Bao Nguyen, a graduate student in Data Science and Analytics with over two years of experience in machine learning, working as a researcher and AI trainer. My skill set spans Data Science, Data Engineering, and AI Engineering, with a strong focus on Natural Language Processing (NLP) and Business Intelligence (BI).
+
 ---
 
 ### 🛠 SKILLS & EXPERTISE
