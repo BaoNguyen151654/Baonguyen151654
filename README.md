@@ -53,8 +53,10 @@ In addition, I performed data analytics and machine learning by extracting featu
 to generate recommendations for optimizing business solutions.
 
 <p align="center">
-  <img src="Datamodel.jpg" alt="Data Model">
+  <img src="Datamodel.jpg" alt="Data Model" width="40%">
 </p>
+
+**Repository:** [Database_ML_Bikeshop_Project](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
 
 ---
 
