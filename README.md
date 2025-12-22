@@ -26,7 +26,8 @@ I am Bao, an aspiring data scientist with interests in both data-driven decision
 
 ### 🔬 PROJECT HIGHLIGHTS
 
-<p align="center"><strong>1. Research Implementation: Spatiotemporal Transformers for Sign Language Production</strong></p>
+<p align="center"><strong>| RESEARCH IMPLEMENTATION: SPATIOTEMPORAL TRANSFORMERS FOR SIGN LANGUAGE PRODUCTION |
+</strong></p>
 
 **Description:**
 This project aims to overcome language barriers for the Deaf community. 
@@ -40,6 +41,16 @@ achieving a normalized DTW score of 0.49, which is a 91.4% improvement over trad
 </p>
 
 **Repository:** [Spatiotemporal Transformers for Sign Language Production](https://github.com/BaoNguyen151654/Spatiotemporal-Transformers-for-Sign-Language-Production)
+
+
+<p align="center"><strong>| DATA ENGINEERING: END TO END DATA PIPELINE OF AN ONLINE BIKE SHOP |
+</strong></p>
+
+**Description:**
+This project focuses on building a database for an online bike shop. 
+The MySQL database is connected to the shop's website to process real-time transactions. 
+In addition, I performed data analytics and machine learning by extracting features from this dataset 
+to generate recommendations for optimizing business solutions.
 
 ---
 
