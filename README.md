@@ -62,6 +62,17 @@ to generate recommendations for optimizing business solutions.
 
 **Repository:** [Database_ML_Bikeshop_Project](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
 
+<p align="center"><strong>| BUSINESS INTELLIGENT: FORECASTING SKYWORKS FINANCIAL PERFORMANCE AND STRATEGIC BUSINESS RECOMMENDATIONS |
+</strong></p>
+
+<p align="center">
+  <img src="Skyworks.jpg" alt="Overview" width="60%">
+</p>
+
+**Description:**
+In this project, I lead a team of three to develop a 5-year strategic plan for [**Skyworks Solutions**](https://www.skyworksinc.com/), a U.S. semiconductor company. Our proposal focuses on shifting manufacturing to Germany and expanding into the AI chip market. We analyze Skyworks’ net income under two scenarios: **Maintaining the current business model (Scenario 1 )** versus **Implementing our strategy (Scenario 2)**. We develop a Prophet model to forecast Skyworks’ revenue in Scenario 1 and calculate Skyworks’ revenue in Scenario 2 using financial methods and assumptions based on their past performance. The results show that Skyworks can achieve break-even in Germany within 5 years, generating an estimated total income of $418M.
+
+**Repository:** [Skyworks Analytics](https://github.com/BaoNguyen151654/Forecasting-Skyworks-Financial-Performance-and-Strategic-Business-Recommendations)
 
 ---
 
