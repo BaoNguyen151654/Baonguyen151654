@@ -44,7 +44,7 @@ The model was trained and tested on the PHOENIX-14 dataset, a well-known dataset
 Temporal and spatial attention in the decoder enables the model to capture both dimensions effectively, 
 achieving a normalized DTW score of 0.49, which is a 91.4% improvement over traditional Transformer models on the same dataset.
 
-**Repository:** [Spatiotemporal Transformers for Sign Language Production](https://github.com/BaoNguyen151654/Spatiotemporal-Transformers-for-Sign-Language-Production)
+**View the full project here:** [Spatiotemporal Transformers for Sign Language Production](https://github.com/BaoNguyen151654/Spatiotemporal-Transformers-for-Sign-Language-Production)
 
 
 <p align="center"><strong>| DATA ENGINEERING: END TO END DATA PIPELINE OF AN ONLINE BIKE SHOP |
@@ -60,7 +60,7 @@ The MySQL database is connected to the shop's website to process real-time trans
 In addition, I performed data analytics and machine learning by extracting features from this dataset 
 to generate recommendations for optimizing business solutions.
 
-**Repository:** [Database_ML_Bikeshop_Project](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
+**View the full project here:** [Database of an online bike shop and machine learning](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
 
 <p align="center"><strong>| BUSINESS INTELLIGENT: FORECASTING SKYWORKS NET INCOME AND BUSINESS RECOMMENDATIONS |
 </strong></p>
@@ -72,7 +72,7 @@ to generate recommendations for optimizing business solutions.
 **Description:**
 In this project, I lead a team of three to develop a 5-year strategic plan for [**Skyworks Solutions**](https://www.skyworksinc.com/), a U.S. semiconductor company. Our proposal focuses on shifting manufacturing to Germany and expanding into the AI chip market. We analyze Skyworks’ net income under two scenarios: **Maintaining the current business model (Scenario 1 )** versus **Implementing our strategy (Scenario 2)**. We develop a Prophet model to forecast Skyworks’ revenue in Scenario 1 and calculate Skyworks’ revenue in Scenario 2 using financial methods and assumptions based on their past performance. The results show that Skyworks can achieve break-even in Germany within 5 years, generating an estimated total income of $418M.
 
-**Repository:** [Skyworks Analytics](https://github.com/BaoNguyen151654/Forecasting-Skyworks-Financial-Performance-and-Strategic-Business-Recommendations)
+**View the full project here:** [Skyworks Analytics](https://github.com/BaoNguyen151654/Forecasting-Skyworks-Financial-Performance-and-Strategic-Business-Recommendations)
 
 ---
 
