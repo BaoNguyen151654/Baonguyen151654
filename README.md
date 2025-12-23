@@ -55,10 +55,7 @@ achieving a normalized DTW score of 0.49, which is a 91.4% improvement over trad
 </p>
 
 **Description:**
-This project focuses on building a database for an online bike shop. 
-The MySQL database is connected to the shop's website to process real-time transactions. 
-In addition, I performed data analytics and machine learning by extracting features from this dataset 
-to generate recommendations for optimizing business solutions.
+In this project, I build an end-to-end data-driven system for a bike shop, including a relational database and data pipelines managing 321 products and 1,400+ customers. I also develop a Flask-based online shopping platform integrated with MySQL to process real-time transactions, and train a logistic regression model achieving 83% accuracy to predict bike brand tiers, enabling customer segmentation and inventory planning.
 
 **View the full project here:** [Database of an online bike shop and machine learning](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project)
 
