@@ -50,7 +50,7 @@ achieving a normalized DTW score of 0.49, which is a 91.4% improvement over trad
 </strong></p>
 
 <p align="center">
-  <img src="Plot.png" alt="Plot">
+  <img src="Plot.png" alt="Plot" width="50%">
 </p>
 
 **Description:**
