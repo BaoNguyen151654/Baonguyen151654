@@ -20,7 +20,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 * **Software & Cloud:**
     * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel, Power BI, Tableau.
     * **Cloud/DB:** MySQL, BigQuery, Google Cloud, AWS.
-- **Frameworks & Libraries:**
+* **Frameworks & Libraries:**
   - **Data Manipulation:** `Pandas`, `NumPy`
   - **Visualization:** `Matplotlib`, `Seaborn`
   - **Machine Learning:** `Scikit-learn`
