@@ -30,6 +30,18 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 
 ### 🔬 PROJECT HIGHLIGHTS
 
+<p align="center"><strong>| END-TO-END MACHINE LEARNING APPLICATION FOR CREDIT FRAUD DETECTION |
+</strong></p>
+
+<p align="center">
+  <img src="MLops.png" alt="MLOPS">
+</p>
+
+**Description:**
+The goal of this project is to simulate a real-world credit banking system.. It covers the full machine learning lifecycle, including feature engineering, algorithm selection, oversampling for class imbalance, precision–recall trade-off analysis, and model deployment. An XGBoost model was trained and deployed as a RESTful service using a Flask API, then containerized with Docker for scalability. To handle data drift, the system starts computing the Population Stability Index (PSI) once the data volume has increased by 20%. If the PSI exceeds 0.3, the system automatically triggers model retraining.
+
+**View the full project here:** [An MLops Pipeline for Real-time Credit Fraud Detection](https://github.com/BaoNguyen151654/MLOPS_FRAUD_DETECTION)
+
 <p align="center"><strong>| RESEARCH IMPLEMENTATION: SPATIOTEMPORAL TRANSFORMERS FOR SIGN LANGUAGE PRODUCTION |
 </strong></p>
 
