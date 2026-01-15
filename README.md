@@ -15,7 +15,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 
 ### 🛠 SKILLS & EXPERTISE
 
-* **Core Expertise:** Machine Learning, Time Series Analysis, Statistical Modeling, Natural Language Processing (NLP).
+* **Core Expertise:** Machine Learning, Statistical Modeling, Natural Language Processing (NLP), Machine Learning Operations (MLOps).
 * **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 * **Software & Cloud:**
     * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel, Power BI, Tableau, Docker.
