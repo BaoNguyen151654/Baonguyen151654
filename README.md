@@ -25,7 +25,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
   - **Visualization:** `Matplotlib`, `Seaborn`
   - **Machine Learning:** `Scikit-learn`
   - **Deep Learning:** `PyTorch`, `TensorFlow`
-
+  - **Statistics:** `SciPy`, `Statsmodels`
 ---
 
 ### 🔬 PROJECT HIGHLIGHTS
