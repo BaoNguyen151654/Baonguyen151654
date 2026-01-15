@@ -38,7 +38,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 </p>
 
 **Description:**
-The goal of this project is to simulate a real-world credit banking system. It covers the full machine learning lifecycle, including feature engineering, algorithm selection, oversampling for class imbalance, precision–recall trade-off analysis, and model deployment. An XGBoost model was trained and deployed as a RESTful service using a Flask API, then containerized with Docker for scalability. To handle data drift, the system starts computing the Population Stability Index (PSI) when the data volume increases by 20%. If the PSI exceeds 0.3, it automatically triggers model retraining.
+The goal of this project is to simulate a real-world credit banking system. It covers the full machine learning lifecycle, including feature engineering, algorithm selection, oversampling for class imbalance, precision–recall trade-off analysis, and model deployment. An XGBoost model was trained and deployed as a RESTful service using a Flask API, then containerized with Docker for scalability. To handle data drift, the system starts computing the Population Stability Index (PSI) each time the data volume increases by 20%. If the PSI exceeds 0.3, it automatically triggers model retraining.
 
 **View the full project here:** [An MLops Pipeline for Real-time Credit Fraud Detection](https://github.com/BaoNguyen151654/MLOPS_FRAUD_DETECTION)
 
