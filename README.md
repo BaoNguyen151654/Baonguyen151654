@@ -18,7 +18,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 * **Core Expertise:** Machine Learning, Time Series Analysis, Statistical Modeling, Natural Language Processing (NLP).
 * **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 * **Software & Cloud:**
-    * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel, Power BI, Tableau.
+    * **Tools:** Jupyter Notebook, Google Colab, VS Code, Excel, Power BI, Tableau, Docker.
     * **Cloud/DB:** MySQL, BigQuery, Google Cloud, AWS.
 * **Frameworks & Libraries:**
   - **Data Manipulation:** `Pandas`, `NumPy`
@@ -38,7 +38,7 @@ Yes, a few of them were completed while I was staring at my screen at 3 a.m 😀
 </p>
 
 **Description:**
-The goal of this project is to simulate a real-world credit banking system.. It covers the full machine learning lifecycle, including feature engineering, algorithm selection, oversampling for class imbalance, precision–recall trade-off analysis, and model deployment. An XGBoost model was trained and deployed as a RESTful service using a Flask API, then containerized with Docker for scalability. To handle data drift, the system starts computing the Population Stability Index (PSI) once the data volume has increased by 20%. If the PSI exceeds 0.3, the system automatically triggers model retraining.
+The goal of this project is to simulate a real-world credit banking system.. It covers the full machine learning lifecycle, including feature engineering, algorithm selection, oversampling for class imbalance, precision–recall trade-off analysis, and model deployment. An XGBoost model was trained and deployed as a RESTful service using a Flask API, then containerized with Docker for scalability. To handle data drift, the system starts computing the Population Stability Index (PSI) once the data volume has increased by 20%. If the PSI exceeds 0.3, it automatically triggers model retraining.
 
 **View the full project here:** [An MLops Pipeline for Real-time Credit Fraud Detection](https://github.com/BaoNguyen151654/MLOPS_FRAUD_DETECTION)
 
