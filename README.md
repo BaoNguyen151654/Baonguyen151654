@@ -2,7 +2,7 @@
   <img src="Profile_GiaBaoNguyen.jpg" alt="Bao Nguyen Banner" width="100%">
 </p>
 
-### 🚀 DATA SCIENTIST | AI RESEARCHER | DATA ENGINEER
+### 🚀 DATA SCIENTIST | AI RESEARCHER
 
 Oops, what are you doing here? Anyway, welcome to my portfolio.
 Here you’ll find a collection of projects I’ve worked on, some challenging,
