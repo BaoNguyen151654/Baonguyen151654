@@ -50,7 +50,10 @@ The goal of this project is to simulate a real-world credit banking system. It c
 </p>
 
 **Description:**
-Playing away matches is never easy, as players must perform under the pressure of thousands of spectators. The challenge becomes even greater when away teams fall behind on the scoreboard. However, making a comeback in away matches is not impossible, as many matches have shown away teams overturning deficits under hostile conditions. A notable example is Manchester United’s 3–2 victory over Manchester City at the Etihad Stadium in 2018, despite trailing by two goals at halftime. In this project, I try to explore the answers to 2 key questions: **What factors are associated with the away team's chances of making a comeback?** and **How can the away team make a comeback, and what are the most common comeback scenarios?**
+Playing away matches is never easy, as players must perform under the pressure of thousands of spectators. The challenge becomes even greater when away teams fall behind on the scoreboard. However, making a comeback in away matches is not impossible, as many matches have shown away teams overturning deficits under hostile conditions. A notable example is Manchester United’s 3–2 victory over Manchester City at the Etihad Stadium in 2018, despite trailing by two goals at halftime. In this project, I try to explore the answers to 2 key questions:
+
+- What factors are associated with the away team's chances of making a comeback?
+- How can the away team make a comeback, and what are the most common comeback scenarios?
 
 **View the full project here:** [EPL Comeback Analytics](https://github.com/BaoNguyen151654/How-Soccer-Teams-Come-Back-from-Behind-in-Away-Matches-Evidence-from-the-English-Premier-League)
 
