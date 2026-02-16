@@ -42,6 +42,18 @@ The goal of this project is to simulate a real-world credit banking system. It c
 
 **View the full project here:** [An MLops Pipeline for Real-time Credit Fraud Detection](https://github.com/BaoNguyen151654/MLOPS_FRAUD_DETECTION)
 
+<p align="center"><strong>| SPORT ANALYTICS: HOW EPL SOCCER TEAMS COME BACK FROM BEHIND IN AWAY MATCHES |
+</strong></p>
+
+<p align="center">
+  <img src="ELBOW.png" alt="MLOPS" width="50%">
+</p>
+
+**Description:**
+Playing away matches is never easy, as players must perform under the pressure of thousands of spectators. The challenge becomes even greater when away teams fall behind on the scoreboard. However, making a comeback in away matches is not impossible, as many matches have shown away teams overturning deficits under hostile conditions. A notable example is Manchester United’s 3–2 victory over Manchester City at the Etihad Stadium in 2018, despite trailing by two goals at halftime. In this project, I try to explore the answers to 2 key questions: **What factors are associated with the away team's chances of making a comeback?** and **How can the away team make a comeback, and what are the most common comeback scenarios?**
+
+**View the full project here:** [EPL Comeback Analytics](https://github.com/BaoNguyen151654/How-Soccer-Teams-Come-Back-from-Behind-in-Away-Matches-Evidence-from-the-English-Premier-League)
+
 <p align="center"><strong>| RESEARCH IMPLEMENTATION: SPATIOTEMPORAL TRANSFORMERS FOR SIGN LANGUAGE PRODUCTION |
 </strong></p>
 
