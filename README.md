@@ -46,7 +46,7 @@ The goal of this project is to simulate a real-world credit banking system. It c
 </strong></p>
 
 <p align="center">
-  <img src="ELBOW.png" alt="MLOPS" width="50%">
+  <img src="EPL.png" alt="MLOPS" width="50%">
 </p>
 
 **Description:**
