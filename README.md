@@ -73,18 +73,6 @@ achieving a normalized DTW score of 0.49, which is a 91.4% improvement over trad
 
 **View the full project here:** [Spatiotemporal Transformers for Sign Language Production](https://github.com/BaoNguyen151654/Spatiotemporal-Transformers-for-Sign-Language-Production)
 
-<p align="center"><strong>| REGRESSION ANALYSIS: ANALYZING FACTORS ASSOCIATED WITH ONLINE CUSTOMER PURCHASE INTENTION |
-</strong></p>
-
-<p align="center">
-  <img src="Plot.png" alt="Plot" width="50%">
-</p>
-
-**Description:**
-This project investigates which factors are most associated with online customer purchase intention by interpreting a logistic regression model. The results reveal an interesting insight: returning visitors are less likely to make a purchase. The Average Marginal Effect (AME) indicates that the probability of making a purchase is 3.56% lower for returning visitors.
-
-**View the full project here:** [Analyzing factors associated with online customer purchase intention](https://github.com/BaoNguyen151654/Analyzing-Factors-Associated-with-Online-Customer-Purchase-Intention/tree/main)
-
 <p align="center"><strong>| DATA ENGINEERING: END TO END DATA PIPELINE OF AN ONLINE BIKE SHOP |
 </strong></p>
 
